@@ -1,0 +1,1 @@
+{"uuid":"6b11f0ce-9db1-4d3f-afc4-73188369da61","name":"Scenario: user navigated to Deletion page","children":["c2c16ae0-72c9-485b-8887-d89edba6f7ca"],"befores":[{"name":"AppHooks.Hooks.bf()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1688875487723,"stop":1688875487723}],"afters":[],"start":1688875487722,"stop":1688875488607}
