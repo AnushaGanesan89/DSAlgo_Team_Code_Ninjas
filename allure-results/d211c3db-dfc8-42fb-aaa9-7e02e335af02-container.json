@@ -1,0 +1,1 @@
+{"uuid":"d211c3db-dfc8-42fb-aaa9-7e02e335af02","name":"Scenario: Verifying Register link","children":["eeb530e1-32fe-4917-8c59-1eb7a036248f"],"befores":[{"name":"AppHooks.Hooks.bf()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1688925082263,"stop":1688925082263}],"afters":[],"start":1688925082260,"stop":1688925082837}

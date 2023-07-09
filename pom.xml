@@ -30,12 +30,7 @@
     <artifactId>log4j-core</artifactId>
    <version>2.20.0</version>
 </dependency>
-<!-- https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-api -->
-<dependency>
-  <groupId>org.apache.logging.log4j</groupId>
-   <artifactId>log4j-api</artifactId>
-  <version>2.20.0</version>
-</dependency>
+
 
 <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-testng -->
 <dependency>
@@ -157,6 +152,13 @@
 		<version>1.18.28</version>
 		<scope>provided</scope>
 	</dependency>
+<!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-failsafe-plugin -->
+<dependency>
+    <groupId>org.apache.maven.plugins</groupId>
+    <artifactId>maven-failsafe-plugin</artifactId>
+    <version>3.1.2</version>
+    <scope>test</scope>
+</dependency>
 
 
 
@@ -177,14 +179,35 @@
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>>maven-surefire-plugin</artifactId>
-        <version>3.1.2</version>
+        <version>3.2.5</version>
         <configuration>
                 <includes>
-                    <include>**/Runner.java</include>
+                    <include>**/*Runner.java</include>
                 </includes>
             </configuration>
+            
         
       </plugin>
+      
+      <plugin> 
+		  <groupId>org.apache.maven.plugins</groupId> 
+		  <artifactId>maven-failsafe-plugin</artifactId> 
+				<version>3.1.2</version> 
+				<executions> 
+					<execution>
+						 <goals> 
+							 <goal>integration-test</goal> 
+				</goals> <configuration> 
+					<includes> 
+						 <include>**/*Runner.java</include> 
+				 
+				</includes> 
+				 
+				</configuration> 
+				</execution> 
+				</executions> 
+				</plugin>
+      
     </plugins>
    
   </build>
