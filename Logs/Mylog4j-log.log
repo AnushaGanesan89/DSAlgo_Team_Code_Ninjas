@@ -74,3 +74,22 @@
 ['INFO ]2023-07-09 13:51:09,076(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-*************Launching Registration Page*******************
 ['INFO ]2023-07-09 13:51:09,143(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-Registration
 ['INFO ]2023-07-09 13:51:09,280(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-******************* Launching Home Page******************
+['INFO ]2023-07-09 14:20:51,097(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-
+['INFO ]2023-07-09 14:20:51,680(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-******************* Launching Home Page******************
+['WARN ]2023-07-09 14:20:54,676(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-******************You have got a login failure warning*********************
+['WARN ]2023-07-09 14:20:55,604(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-******************You have got a login failure warning*********************
+['WARN ]2023-07-09 14:20:56,491(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-******************You have got a login failure warning*********************
+['WARN ]2023-07-09 14:20:57,356(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-******************You have got a login failure warning*********************
+['WARN ]2023-07-09 14:20:58,303(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-******************You have got a login failure warning*********************
+['WARN ]2023-07-09 14:20:59,200(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-******************You have got a login failure warning*********************
+['WARN ]2023-07-09 14:21:00,138(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-******************You have got a login failure warning*********************
+['WARN ]2023-07-09 14:21:01,013(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-******************You have got a login failure warning*********************
+['WARN ]2023-07-09 14:21:01,798(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-******************You have got a login failure warning*********************
+['WARN ]2023-07-09 14:21:02,711(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-******************You have got a login failure warning*********************
+['WARN ]2023-07-09 14:21:03,543(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-******************You have got a login failure warning*********************
+['WARN ]2023-07-09 14:21:04,342(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-******************You have got a login failure warning*********************
+['WARN ]2023-07-09 14:21:05,189(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-******************You have got a login failure warning*********************
+['INFO ]2023-07-09 14:21:05,488(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-*************Launching Signin Page*******************
+['INFO ]2023-07-09 14:21:05,715(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-*************Launching Registration Page*******************
+['INFO ]2023-07-09 14:21:05,833(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-Registration
+['INFO ]2023-07-09 14:21:05,938(YYYY-MM-ddHH:MM:ss.SSS][main]Utilities.Loggerload1)-******************* Launching Home Page******************

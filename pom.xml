@@ -160,6 +160,13 @@
     <scope>test</scope>
 </dependency>
 
+<!-- https://mvnrepository.com/artifact/org.junit.vintage/junit-vintage-engine -->
+<dependency>
+    <groupId>org.junit.vintage</groupId>
+    <artifactId>junit-vintage-engine</artifactId>
+    <version>5.10.0-RC1</version>
+    <scope>test</scope>
+</dependency>
 
 
   </dependencies>
@@ -182,7 +189,7 @@
         <version>3.2.5</version>
         <configuration>
                 <includes>
-                    <include>**/*Runner.java</include>
+                    <include>TestRunner.Runner.java</include>
                 </includes>
             </configuration>
             
@@ -199,7 +206,7 @@
 							 <goal>integration-test</goal> 
 				</goals> <configuration> 
 					<includes> 
-						 <include>**/*Runner.java</include> 
+						 <include>TestRunner.Runner.java</include> 
 				 
 				</includes> 
 				 

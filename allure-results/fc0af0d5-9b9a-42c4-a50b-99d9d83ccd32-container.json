@@ -1,0 +1,1 @@
+{"uuid":"fc0af0d5-9b9a-42c4-a50b-99d9d83ccd32","name":"Scenario: User navigated to linked list page","children":["78a0d239-1118-4333-afdd-2d591ade722b"],"befores":[{"name":"AppHooks.Hooks.bf()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1688926919949,"stop":1688926919950}],"afters":[],"start":1688926919949,"stop":1688926920328}
